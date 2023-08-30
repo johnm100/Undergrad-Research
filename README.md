@@ -27,6 +27,5 @@ A repo for all of the tutorials and framework for undergrad research
 * [PyTorch](https://pytorch.org/)
 * [PyTorch Tutorials](https://pytorch.org/tutorials/)
 * [Jet Measurement overveiw] (https://arxiv.org/pdf/1705.01974.pdf)
-* [Jet Measurement paper] (https://arxiv.org/pdf/1802.00927.pdf)
 * [Bash Scripting Tutorial] (https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
 * [Bash scripting cheat sheet] (https://hpc.ua.edu/wp-content/uploads/2022/02/Linux_bash_cheat_sheet.pdf)
