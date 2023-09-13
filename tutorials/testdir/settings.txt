@@ -1,0 +1,10 @@
+Beams:eCM = 5020
+Beams:idA = 2212
+Beams:idB = 2212
+Main:numberOfEvents = 1000
+HardQCD:all = on
+Random:setSeed = on
+Random:seed = 744597
+PhaseSpace:pTHatMin = 20
+PDF:pSet = 4
+PDF:extrapolate = on
