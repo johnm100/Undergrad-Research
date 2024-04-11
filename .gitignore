@@ -1,7 +1,7 @@
 # hdf5 files
 *.h5
 # pickle files
-.pkl
+*.pkl
 
 # root files
 *.root
